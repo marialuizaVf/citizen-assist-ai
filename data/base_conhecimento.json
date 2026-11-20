@@ -1,0 +1,112 @@
+[
+  {
+    "id": 1,
+    "categoria": "Documentos",
+    "titulo": "Como tirar a Carteira de Trabalho Digital",
+    "palavras_chave": ["carteira de trabalho", "ctps", "carteira digital", "trabalho"],
+    "resposta": "A Carteira de Trabalho Digital pode ser obtida baixando o aplicativo oficial no celular ou acessando o portal gov.br com seu CPF.",
+    "documentos": ["CPF", "Conta cadastrada no gov.br"],
+    "onde": "Aplicativo Carteira de Trabalho Digital ou site gov.br",
+    "fonte": "https://www.gov.br/trabalho-e-emprego",
+    "verificado_em": "2026-11-05"
+  },
+  {
+    "id": 2,
+    "categoria": "Documentos",
+    "titulo": "Emitir o CPF para menores ou jovens",
+    "palavras_chave": ["cpf", "cadastro de pessoas fisicas", "regularizar cpf", "documento"],
+    "resposta": "A inscrição no CPF pode ser feita pela internet de forma gratuita nos sites oficiais do governo ou em agências conveniadas.",
+    "documentos": ["Documento de identidade com foto", "Certidão de nascimento ou casamento"],
+    "onde": "Site da Receita Federal ou Correios",
+    "fonte": "https://www.gov.br/receitafederal",
+    "verificado_em": "2026-11-05"
+  },
+  {
+    "id": 3,
+    "categoria": "Documentos",
+    "titulo": "Fazer o Título de Eleitor",
+    "palavras_chave": ["titulo de eleitor", "eleitoral", "zona eleitoral", "votar"],
+    "resposta": "O alistamento eleitoral é obrigatório para jovens a partir de 18 anos e facultativo dos 16 aos 18 anos. Pode ser feito pela internet.",
+    "documentos": ["Documento de identidade oficial", "Comprovante de residência"],
+    "onde": "Site do Tribunal Superior Eleitoral (TSE) - Autoatendimento Eleitoral",
+    "fonte": "https://www.tse.jus.br",
+    "verificado_em": "2026-11-05"
+  },
+  {
+    "id": 4,
+    "categoria": "Empregabilidade",
+    "titulo": "Como fazer o Primeiro Currículo",
+    "palavras_chave": ["curriculo", "curriculo vitae", "cv", "vaga de emprego"],
+    "resposta": "Para o primeiro emprego, foque em sua formação escolar, cursos extracurriculares, projetos realizados, trabalhos voluntários e habilidades comportamentais.",
+    "documentos": ["Histórico escolar ou comprovante de matrícula"],
+    "onde": "Plataformas de criação de currículo online ou editores de texto",
+    "fonte": "https://www.gov.br/emprega-brasil",
+    "verificado_em": "2026-11-05"
+  },
+  {
+    "id": 5,
+    "categoria": "Empregabilidade",
+    "titulo": "Inscrição no Programa Jovem Aprendiz",
+    "palavras_chave": ["jovem aprendiz", "aprendizagem", "primeiro emprego", "contrato de aprendizagem"],
+    "resposta": "O programa é voltado para jovens de 14 a 24 anos matriculados na escola. A contratação é feita por empresas parceiras ou entidades de capacitação.",
+    "documentos": ["RG", "CPF", "Comprovante de matrícula escolar e de residência"],
+    "onde": "Sites de vagas, Sine ou instituições como CIEE, SENAI e SESC",
+    "fonte": "https://www.gov.br/trabalho-e-emprego",
+    "verificado_em": "2026-11-05"
+  },
+  {
+    "id": 6,
+    "categoria": "Empregabilidade",
+    "titulo": "Cadastro no Sine (Sistema Nacional de Emprego)",
+    "palavras_chave": ["sine", "vagas de emprego", "balcao de empregos", "trabalhar"],
+    "resposta": "O Sine intermedia mão de obra e ajuda jovens a encontrarem vagas de emprego compatíveis com o perfil profissional de forma gratuita.",
+    "documentos": ["RG", "CPF", "Carteira de Trabalho"],
+    "onde": "Postos do Sine presencialmente ou pelo aplicativo Sine Fácil",
+    "fonte": "https://www.gov.br/trabalho-e-emprego",
+    "verificado_em": "2026-11-05"
+  },
+  {
+    "id": 7,
+    "categoria": "Direitos Trabalhistas",
+    "titulo": "O que é o Contrato de Trabalho CLT",
+    "palavras_chave": ["clt", "contrato de trabalho", "direitos trabalhistas", "carteira assinada"],
+    "resposta": "O regime CLT garante direitos fundamentais ao trabalhador formal, como férias remuneradas, 13º salário, FGTS e jornada controlada.",
+    "documentos": ["Carteira de Trabalho Digital"],
+    "onde": "Assinatura digitalizada no momento da contratação pela empresa",
+    "fonte": "https://www.gov.br/trabalho-e-emprego",
+    "verificado_em": "2026-11-05"
+  },
+  {
+    "id": 8,
+    "categoria": "Direitos Trabalhistas",
+    "titulo": "Entendendo o FGTS (Fundo de Garantia)",
+    "palavras_chave": ["fgts", "fundo de garantia", "deposito fgts", "conta vinculada"],
+    "resposta": "O FGTS é um depósito mensal feito pelo empregador em uma conta na Caixa Econômica Federal em nome do trabalhador, correspondente a 8% do salário.",
+    "documentos": ["CPF", "Aplicativo FGTS"],
+    "onde": "Aplicativo FGTS da Caixa Econômica Federal",
+    "fonte": "https://www.caixa.gov.br",
+    "verificado_em": "2026-11-05"
+  },
+  {
+    "id": 9,
+    "categoria": "Direitos Trabalhistas",
+    "titulo": "Como funciona o Salário-Família",
+    "palavras_chave": ["salario familia", "beneficio trabalhista", "filhos", "auxilio"],
+    "resposta": "É um benefício pago aos trabalhadores de baixa renda que possuem filhos menores de 14 anos ou com deficiência, mediante comprovação.",
+    "documentos": ["Certidão de nascimento dos filhos", "Carteira de vacinação atualizada (se menores de 7 anos)", "Comprovante de frequência escolar"],
+    "onde": "Setor de Recursos Humanos da empresa contratante",
+    "fonte": "https://www.gov.br/inss",
+    "verificado_em": "2026-11-05"
+  },
+  {
+    "id": 10,
+    "categoria": "Direitos Trabalhistas",
+    "titulo": "Direito ao Descanso Semanal Remunerado (DSR)",
+    "palavras_chave": ["dsr", "descanso semanal", "folga", "domingo"],
+    "resposta": "Todo trabalhador tem direito a um período de descanso semanal remunerado, preferencialmente aos domingos, conforme a legislação vigente.",
+    "documentos": ["Escala de trabalho da empresa"],
+    "onde": "Controlado pelo RH e chefia imediata da empresa",
+    "fonte": "https://www.gov.br/trabalho-e-emprego",
+    "verificado_em": "2026-11-05"
+  }
+]

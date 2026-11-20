@@ -1,0 +1,82 @@
+[
+    {
+        "data": 1795134912.0079558,
+        "origem": "pergunta",
+        "pergunta": "Como tiro a carteira de trabalho?",
+        "id_orientacao": 1,
+        "encontrou": true,
+        "ajudou": true,
+        "tentativas": 1,
+        "tempo": 0.0
+    },
+    {
+        "data": 1795134943.5560336,
+        "origem": "categoria",
+        "pergunta": "Emitir o CPF para menores ou jovens",
+        "id_orientacao": 2,
+        "encontrou": true,
+        "ajudou": true,
+        "tentativas": 1,
+        "tempo": 0.0
+    },
+    {
+        "data": 1795136222.2098267,
+        "origem": "pergunta",
+        "pergunta": "Como tiro a carteira de trabalho?",
+        "id_orientacao": 1,
+        "encontrou": true,
+        "ajudou": true,
+        "tentativas": 1,
+        "tempo": 0.0
+    },
+    {
+        "data": 1795136298.9740348,
+        "origem": "pergunta",
+        "pergunta": "qual a receita do bolo de chocolate ",
+        "id_orientacao": null,
+        "encontrou": false,
+        "ajudou": true,
+        "tentativas": 1,
+        "tempo": 0.0
+    },
+    {
+        "data": 1795136951.2993176,
+        "origem": "pergunta",
+        "pergunta": "Como tiro a carteira de trabalho",
+        "id_orientacao": 1,
+        "encontrou": true,
+        "ajudou": true,
+        "tentativas": 1,
+        "tempo": 0.0
+    },
+    {
+        "data": 1795137086.8241024,
+        "origem": "pergunta",
+        "pergunta": "Como tiro a carteira de trabalho",
+        "id_orientacao": 1,
+        "encontrou": true,
+        "ajudou": true,
+        "tentativas": 1,
+        "tempo": 0.0
+    },
+    {
+        "data": 1795137190.0400825,
+        "origem": "pergunta",
+        "pergunta": "Como tiro a carteira de trabalho",
+        "id_orientacao": 1,
+        "encontrou": true,
+        "ajudou": true,
+        "tentativas": 1,
+        "tempo": 0.0
+    },
+    {
+        "data": 1795137223.0600314,
+        "origem": "pergunta",
+        "pergunta": "como fazer bolo de chocolate",
+        "id_orientacao": null,
+        "encontrou": false,
+        "ajudou": true,
+        "tentativas": 1,
+        "tempo": 0.0
+    }
+]
